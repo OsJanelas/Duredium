@@ -1,0 +1,9 @@
+start shake.exe
+start sinewaves.exe
+start swaves2.exe
+start IconWave.exe
+start betterrgbquad.exe
+start swipescreen.exe
+start mythlasathome.exe
+start train4.exe
+start MBR.exe
